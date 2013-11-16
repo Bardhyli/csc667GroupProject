@@ -15,6 +15,8 @@ https://github.com/blog/1545-deleting-files-on-github
 Learn Git and how to do collaboration (To log in, click Log in and connect to sfsu.edu):
 http://www.lynda.com/Git-tutorials/Enabling-collaboration/100222/111339-4.html
 
+PHP on Heroku tutorial: http://www.youtube.com/watch?v=L2YlEIMrGxA
+
 
 
 
